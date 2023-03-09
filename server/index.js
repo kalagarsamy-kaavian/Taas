@@ -10,7 +10,7 @@ app.use(bodyparser.json());
 app.get('/',(req,res)=>{
     res.send();
 }) 
-
+// Insert Comment
 app.post('/datas',(req,res)=>{
     const db= getDB();
     const collection = db.collection("Test");
