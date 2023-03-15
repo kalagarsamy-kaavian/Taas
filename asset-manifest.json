@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taas/static/css/main.9c3d46e8.css",
+    "main.js": "/Taas/static/js/main.9540e750.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Taas/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Taas/index.html",
+    "main.9c3d46e8.css.map": "/Taas/static/css/main.9c3d46e8.css.map",
+    "main.9540e750.js.map": "/Taas/static/js/main.9540e750.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Taas/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3d46e8.css",
+    "static/js/main.9540e750.js"
+  ]
+}
