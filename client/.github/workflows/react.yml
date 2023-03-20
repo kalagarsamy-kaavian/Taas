@@ -1,7 +1,7 @@
 name: ReactBuildApp
 on:
   push:
-    branches: [ deploy ]
+    branches: [ Buildfile ]
 jobs:
   build:
     runs-on: self-hosted
