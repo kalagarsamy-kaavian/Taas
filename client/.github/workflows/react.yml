@@ -1,4 +1,4 @@
-name: ReactBuildApp
+name: ReactApp
 on:
   push:
     branches: [ master ]
